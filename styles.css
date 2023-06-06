@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Colors */
+  --primary: #1c303a;
+  --secondary: #859a50;
+  --accent: #53865d;
+
+  /* Fonts */
+  --black-hans: "Black Han Sans", sans-serif;
+  --inter: "Inter", sans-serif;
+  --nerko-one: "Nerko One", cursive;
+  --yellowtail: "Yellowtail", cursive;
+}
+
+body {
+  color: var(--primary);
+  font-family: var(--inter);
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.2;
+}
