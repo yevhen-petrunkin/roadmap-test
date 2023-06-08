@@ -31,9 +31,8 @@ body {
 .roadmap__container {
   margin: 0 auto;
   padding-top: 95px;
-  padding-bottom: 254px;
+  padding-bottom: 156px;
   width: 375px;
-  height: 600px;
 
   background-image: url("./images/background-phone.svg");
   background-repeat: no-repeat;
@@ -162,8 +161,8 @@ body {
   }
 
   .roadmap__container {
+    padding-bottom: 219px;
     width: 744px;
-    height: 700px;
     background-image: url("./images/background-tablet.svg");
   }
 
@@ -208,9 +207,9 @@ body {
   }
 
   .roadmap__container {
-    width: 1440px;
-    height: 800px;
     padding-top: 120px;
+    padding-bottom: 207.5px;
+    width: 1440px;
     background-image: url("./images/background-desktop.svg");
   }
 
